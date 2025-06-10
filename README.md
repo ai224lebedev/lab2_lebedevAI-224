@@ -32,3 +32,6 @@
 ![image](https://github.com/user-attachments/assets/3bb5432d-0f3c-450f-80ba-ae1773db4242)
 
 ![image](https://github.com/user-attachments/assets/2b2b94fc-b919-480f-8f1e-5fc29fe1991b)
+
+**Хід роботи:**
+
